@@ -1,0 +1,1 @@
+The Grocery Store Management System is a three-tier application designed to streamline store operations. It features a responsive frontend (HTML, CSS, JavaScript, Bootstrap), a Python-Flask backend for handling business logic, and a MySQL database for managing product inventory, orders, and customer data.
